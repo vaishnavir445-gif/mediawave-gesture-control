@@ -2,8 +2,6 @@
 
 Control your media player without touching the keyboard. MediaWave tracks your hand through a standard webcam, classifies the gesture with a machine learning model, and sends the matching media command to your computer in real time.
 
-> Add your demo GIF or video link here.
-
 ## Gestures
 
 | Gesture | Action | Behaviour |
@@ -71,6 +69,3 @@ gesture-media-control/
 - Support for more media players and operating systems
 - Dynamic (motion-based) gestures
 
-## License
-
-Add your preferred license (for example MIT).
