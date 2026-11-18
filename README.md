@@ -47,7 +47,7 @@ For the 2x speed gesture, open YouTube with the video at 1x speed and keep that 
 ## Project structure
 
 ```
-gesture-media-control/
+mediawave-gesture-control/
 ├── data/        # recorded landmark dataset (CSV)
 ├── models/      # trained model (gesture_model.pkl)
 ├── scripts/     # the four pipeline scripts + remove_label.py utility
