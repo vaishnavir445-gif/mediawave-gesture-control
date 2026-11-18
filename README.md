@@ -28,8 +28,8 @@ Python 3.11, OpenCV, MediaPipe, NumPy, Pandas, Scikit-Learn, Joblib, PyAutoGUI, 
 ## Setup (Windows)
 
 ```powershell
-git clone <your-repo-url>
-cd gesture-media-control
+git clone https://github.com/vaishnavir445-gif/mediawave-gesture-control.git
+cd mediawave-gesture-control
 pip install -r requirements.txt
 ```
 
